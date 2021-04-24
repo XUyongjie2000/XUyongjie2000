@@ -1,6 +1,6 @@
 - # 👋 Hey there
 
-  I'm xuyongjie, a front-end developer.
+  I'm Mr Xu, a front-end developer.
 [![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/XUyongjie2000)
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
