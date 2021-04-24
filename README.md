@@ -1,4 +1,4 @@
-- # ?? Hey there
+- # 👋 Hey there
 
   I'm XUyongjie2000, a front-end developer.
 [![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/XUyongjie2000)
